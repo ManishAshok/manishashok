@@ -2,7 +2,7 @@
 <h3 align="center">ANalyst, COnsultant and PROgrammer!</h3>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=visargsoneji&color=blueviolet&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=ManishAshok&color=blueviolet&style=flat">
 </p>
 
 - 🌱 I’m currently learning **Machine Learning and Advance Business Analytics**
