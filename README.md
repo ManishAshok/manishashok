@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manish Ashok</h1>
-<h3 align="center">ANalyst, COnsultant, PROcurement & SUpply CHain!</h3>
+<h3 align="center">ANalyst, COnsultant, PROcurement & SUpply CHain, Programmer!</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManishAshok&color=blueviolet&style=flat">
